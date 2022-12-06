@@ -28,10 +28,6 @@
 - [Docker Setup](#docker-setup)
 - [File Structure](#file-structure)
 - [Application Security](#application-security)
-- [Contributing](#contributing)
-- [Sponsors](#sponsors)
-- [License](#license)
-- [Acknowledgement](#acknowledgement)
 
 ---
 
