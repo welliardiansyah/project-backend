@@ -2344,15 +2344,10 @@ acorn@^7.1.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.4.1.tgz#feaed255973d2e77555b83dbc08851a6c63520fa"
   integrity sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==
 
-acorn@^8.2.4, acorn@^8.4.1, acorn@^8.5.0, acorn@^8.7.0:
-  version "8.7.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.7.0.tgz#90951fde0f8f09df93549481e5fc141445b791cf"
-  integrity sha512-V/LGr1APy+PXIwKebEWrkZPwoeoF+w1jiOBUmuxuiUIaOHtob8Qc9BTrYo7VuI5fR8tqsy+buA2WFooR5olqvQ==
-
-acorn@^8.7.1:
-  version "8.8.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.8.0.tgz#88c0187620435c7f6015803f5539dae05a9dbea8"
-  integrity sha512-QOxyigPVrpZ2GXT+PFyZTl6TtOFc5egxHIP9IlQ+RbupQuX4RkT/Bee4/kQuC02Xkzg84JcT7oLYtDIQxp+v7w==
+acorn@^8.2.4, acorn@^8.4.1, acorn@^8.5.0, acorn@^8.7.0, acorn@^8.7.1:
+  version "8.8.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.8.1.tgz#0a3f9cbecc4ec3bea6f0a80b66ae8dd2da250b73"
+  integrity sha512-7zFpHzhnqYKrkYdUjF1HI1bzd0VygEGX8lFk4k5zVMqHEoES+P+7TKI+EvLO9WVMJ8eekdO0aDEK044xTXwPPA==
 
 agent-base@6, agent-base@^6.0.0, agent-base@^6.0.2:
   version "6.0.2"
@@ -9295,9 +9290,9 @@ verror@1.10.0:
     extsprintf "^1.2.0"
 
 vm2@^3.9.8:
-  version "3.9.10"
-  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.10.tgz#c66543096b5c44c8861a6465805c23c7cc996a44"
-  integrity sha512-AuECTSvwu2OHLAZYhG716YzwodKCIJxB6u1zG7PgSQwIgAlEaoXH52bxdcvT8GkGjnYK7r7yWDW0m0sOsPuBjQ==
+  version "3.9.12"
+  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.12.tgz#9bfa6d913a8b467861524e5a11c3b038cc967ec4"
+  integrity sha512-OMmRsKh1gmdosFzuqmj6O43hqIStqXA24YbwjtUTO0TkOBP8yLNHLplbr4odnAzEcMnm9lt2r3R8kTivn8urMg==
   dependencies:
     acorn "^8.7.0"
     acorn-walk "^8.2.0"
