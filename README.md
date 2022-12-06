@@ -54,14 +54,6 @@ https://redis.io/
 
 ---
 
-## Available Scripts
-
-### npx ardwells-api
-
-This commands downloads the latest version of truthy i.e NestJS Truthy CMS backend API.
-
-In the project directory, you can run:
-
 ### `yarn start:dev`
 
 Runs the app in the development & watch mode.<br>
