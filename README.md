@@ -56,7 +56,7 @@ https://redis.io/
 
 ## Available Scripts
 
-### npx truthy-api
+### npx ardwells-api
 
 This commands downloads the latest version of truthy i.e NestJS Truthy CMS backend API.
 
