@@ -183,7 +183,7 @@ docker exec -it <container_id_or_name> yarn seed
 This project follows the following file structure:
 
 ```text
-truthy
+ardwells project
 ├── config                                  * Contains all configuration files
 │   └── default.yml                         * Default configuration file.
 │   └── development.yml                     * Configuration file for development environment.
