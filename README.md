@@ -5,13 +5,6 @@
 </h1>
 
 <p align="center">
-<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/gobeam/ardwells">
-<img alt="Workflow test" src="https://github.com/gobeam/ardwells/actions/workflows/ci.yml/badge.svg">
-<img alt="GitHub" src="https://img.shields.io/github/license/gobeam/ardwells">
-<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/gobeam/ardwells">
-<img src='https://www.codetriage.com/gobeam/ardwells/badges/users.svg' alt='Open Source Helpers' />
-</p>
-<p align="center">
 <a href="https://www.buymeacoffee.com/ardwells" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 <p align="center">
