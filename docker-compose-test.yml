@@ -1,6 +1,6 @@
 version: '3'
 services:
-  truthy-postgres:
+  ardwells-postgres:
     image: postgres
     ports:
       - '6543:5432'
