@@ -6,7 +6,7 @@ db:
   host: ''
   type: ''
   port: 5432
-  database: 'truthy'
+  database: 'ardwells'
   synchronize: false
 
 jwt:
@@ -15,9 +15,9 @@ jwt:
   cookieExpiresIn: 604800
 
 app:
-  name: 'Truthy'
+  name: 'Ardwells'
   version: 'v0.1'
-  description: 'Official Truthy API'
+  description: 'Official Ardwells API'
   appUrl: 'https://truthy-backend.herokuapp.com/'
   frontendUrl: 'http://localhost:3000'
 
@@ -26,12 +26,12 @@ mail:
   port: 2525
   user: ''
   pass: ''
-  from: 'truthycms'
-  fromMail: 'truthycms@gmail.com'
+  from: 'ardwells'
+  fromMail: 'ardwells@gmail.com'
   preview: true
   secure: false
   ignoreTLS: true
-  queueName: 'truthy-mail'
+  queueName: 'ardwells-mail'
 
 queue:
   driver: 'redis'
