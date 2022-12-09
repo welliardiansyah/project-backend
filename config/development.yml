@@ -23,4 +23,4 @@ mail:
   preview: true
   secure: false
   ignoreTLS: true
-  queueName: 'truthy-mail'
+  queueName: 'ardwells-mail'

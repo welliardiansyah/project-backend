@@ -18,9 +18,9 @@ jwt:
 
 app:
   fallbackLanguage: 'en'
-  name: 'Truthy'
+  name: 'Ardwells'
   version: 'v0.1'
-  description: 'Official Truthy API'
+  description: 'Official Ardwells API'
   appUrl: 'http://localhost:3000'
   frontendUrl: 'http://localhost:3000'
   sameSite: true
@@ -30,12 +30,12 @@ mail:
   port: 2525
   user: 'f4a511d60957e6'
   pass: '7522797b96cef0'
-  from: 'truthycms'
-  fromMail: 'truthycms@gmail.com'
+  from: 'ardwells'
+  fromMail: 'ardwells@gmail.com'
   preview: true
   secure: false
   ignoreTLS: true
-  queueName: 'truthy-mail'
+  queueName: 'ardwells-mail'
 
 queue:
   driver: 'redis'
@@ -56,11 +56,11 @@ throttle:
     blockDuration: 3000
 
 twofa:
-  authenticationAppNAme: 'truthy'
+  authenticationAppNAme: 'ardwells'
 
 winston:
-  groupName: 'truthy'
-  streamName: 'truthy-stream'
+  groupName: 'ardwells'
+  streamName: 'ardwells-stream'
   awsAccessKeyId: ''
   awsSecretAccessKey: ''
   awsRegion: ''
